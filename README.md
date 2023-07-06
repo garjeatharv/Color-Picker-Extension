@@ -31,3 +31,5 @@ Feel free to customize the application's styling by modifying the `style.css` fi
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request.
+
+[Color Pick Website](https://garjeatharv.github.io/Color-Picker-Extension)
