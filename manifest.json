@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Get The color",
+    "description": "A simple color picker extension. Easily pick any color on the screen, view a history of picked colors, and copy or clear them with a single click.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "main.html"
+    },
+    "icons": {
+        "16": "LOGO/icon16.png",
+        "32": "LOGO/icon32.png",
+        "48": "LOGO/icon48.png",
+        "128":"LOGO/icon128.png"
+    }
+}
